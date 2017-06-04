@@ -29,4 +29,6 @@ Currently, the HOWTOs are:
    ipaddress.rst
    clinic.rst
    instrumentation.rst
+   asyncio.rst
+   asyncio-advanced.rst
 
